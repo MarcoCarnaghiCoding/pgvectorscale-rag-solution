@@ -1,7 +1,14 @@
+# Base Docker dependencies
 pandas
-#openai
 psycopg
 python-dotenv
 timescale-vector
-#instructor
-#anthropic
+openai
+instructor
+anthropic
+
+
+# Testing 
+sentence-transformers # to replace openai
+
+
